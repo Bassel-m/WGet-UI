@@ -5,7 +5,7 @@ INSTRUCTIONS:
 
 First --> Check you have installed gtkmm-3.0
 
-For Deban like : 
+For Debian like : 
 
 apt-get install libgtkmm-3.0-dev
 
