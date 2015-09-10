@@ -5,6 +5,16 @@ INSTRUCTIONS:
 
 First --> Check you have installed gtkmm-3.0
 
+For Deban like : 
+
+apt-get install libgtkmm-3.0-dev
+
+For Fedora like :
+
+yum install gtkmm30-docs
+
+
+
 
 Second --> Extract the downloaded archive and "cd" into the new directory
 
